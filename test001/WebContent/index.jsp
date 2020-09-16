@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="container panel panel-info">
-<h3 class="panel-heading">INDEX</h3>
+<h3 class="panel-heading">INDEX-VER2</h3>
 </div>
 </body>
 </html>
